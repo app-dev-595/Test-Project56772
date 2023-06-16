@@ -1,1 +1,2 @@
-# Test-Project56772
+### Event subscriptions and consuming events
+npm install kafka-node nestjs-kafka
